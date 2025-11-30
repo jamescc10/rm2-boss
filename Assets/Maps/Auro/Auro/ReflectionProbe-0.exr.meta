@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 729dc86098ba0c24abb8a61a63069594
+guid: 4059eab12287ca84db2826b5065e2766
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -88,5 +88,5 @@ TextureImporter:
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
+  assetBundleName: auro
   assetBundleVariant: 
